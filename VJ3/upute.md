@@ -1,4 +1,4 @@
-# Arduino
+# Arduino Vježba 3
 Arduino Workshop @ University of Split
 
 ## 1. Uvod: Arduino Serial Plotter
