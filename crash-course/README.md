@@ -5,6 +5,6 @@
 
 
 ### Installation
-Download and install the Arduino IDE [here](https://www.arduino.cc/en/Main/Software)
+Download the Arduino IDE installation file [here](https://www.arduino.cc/en/Main/Software) and run it.
 
 ### First setup
