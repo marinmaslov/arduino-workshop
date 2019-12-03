@@ -2,6 +2,7 @@
 Arduino Workshop @ DeepSkyDevs
 
 ## Description
+This workshop is also aviable in [Croatian](https://github.com/marinmaslov/Arduino/tree/cro).
 
 ## Table of Contents
 1.  [Arduino Crash Course](https://github.com/marinmaslov/Arduino/tree/master/crash-course)
