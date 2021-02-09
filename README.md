@@ -1,5 +1,5 @@
 # Arduino
-Arduino Workshop @ DeepSkyDevs
+Arduino Workshop @ University of Split
 
 ## Description
 This workshop is also aviable in [Croatian](https://github.com/marinmaslov/arduino-workshop/tree/cro).
