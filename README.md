@@ -1,5 +1,5 @@
 # Arduino
-Arduino Workshop @ Zvjezdolovci
+Arduino Workshop @ [Zvjezdolovci](https://zvjezdolovci.com)
 ## Description
 This workshop is also aviable in [Croatian](https://github.com/marinmaslov/arduino-workshop/tree/cro).
 
