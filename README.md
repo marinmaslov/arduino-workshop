@@ -1,6 +1,5 @@
 # Arduino
-Arduino Workshop @ University of Split
-
+Arduino Workshop @ Zvjezdolovci
 ## Description
 This workshop is also aviable in [Croatian](https://github.com/marinmaslov/arduino-workshop/tree/cro).
 
